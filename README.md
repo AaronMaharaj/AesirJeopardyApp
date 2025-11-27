@@ -81,6 +81,8 @@ Enter your answer (A, B, C, or D).
 Game Over: The game ends when all questions have been answered.
 Reports: Choose to generate a summary report in TXT, PDF, or DOCX format.
 
+### Demo Link
+https://youtu.be/oseqZ0OgmHU
 
 ### Core Components
 *   **`Game`**: The central controller. It manages the game loop, player turns, and interacts with the `EventManager`.
