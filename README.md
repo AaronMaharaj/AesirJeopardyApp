@@ -27,6 +27,9 @@ We utilized several standard design patterns to ensure the codebase is maintaina
 *   **Interface Segregation Principle (ISP)**: Interfaces like `GameDataLoader` and `ReportGenerator` are focused and minimal, ensuring implementing classes aren't forced to define unused methods.
 *   **Dependency Inversion Principle (DIP)**: High-level modules (`Game`) depend on abstractions (`GameDataLoader`, `ReportGenerator`) rather than concrete implementations.
 
+### Class Diagram
+<img width="7730" height="3591" alt="OOP2-GroupProject" src="https://github.com/user-attachments/assets/df4afd96-03d7-4a19-81dc-866ced7ac878" />
+
 ---
 
 ## 3. Implementation Details
